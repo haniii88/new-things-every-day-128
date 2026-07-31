@@ -1,5 +1,5 @@
 /* New Things Every Day — Day 128 */
-/* Analyzes project files and creates a codebase summary */
+/* Analyzes project files an creates a codebase summary */
 
 function dailyLog128() {
     const files = [
